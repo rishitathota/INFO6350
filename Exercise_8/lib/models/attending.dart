@@ -1,0 +1,1 @@
+enum Attendings { yes, no, unknown }
